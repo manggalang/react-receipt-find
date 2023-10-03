@@ -1,0 +1,12 @@
+.footer {
+  margin-top: 60px;
+  border-top: 1px solid #2727278a;
+}
+
+.inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: var(--mantine-spacing-sm);
+  padding-bottom: var(--mantine-spacing-sm);
+}
